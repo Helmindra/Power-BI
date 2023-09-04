@@ -1,2 +1,1 @@
-# Power-BI
-Power BI Projects
+"Teenagers Time Management" is a basic PowerBI project that delves into the critical aspect of time management among adolescents. In today's fast-paced world, teenagers face a myriad of academic, extracurricular, and social commitments, making effective time allocation a paramount skill. This project aims to analyze and visualize data related to how teenagers allocate their time, identify trends in time management habits, and offer valuable insights to help teenagers optimize their schedules. By harnessing the power of data visualization and analytics, this project seeks to empower both teenagers and their parents with actionable information to enhance productivity, balance, and overall well-being in the lives of adolescents.
